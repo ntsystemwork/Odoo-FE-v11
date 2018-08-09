@@ -1,0 +1,5 @@
+pandas
+pysimplesoap
+pyOpenSSL
+https://github.com/aeroo/aeroolib/archive/master.zip
+https://github.com/aeroo/currency2text/archive/master.zip
