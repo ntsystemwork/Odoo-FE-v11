@@ -1,5 +1,7 @@
 pandas
 pysimplesoap
 pyOpenSSL
+pypiwin32
 https://github.com/aeroo/aeroolib/archive/master.zip
 https://github.com/aeroo/currency2text/archive/master.zip
+https://github.com/reingart/pyafipws/archive/master.zip
